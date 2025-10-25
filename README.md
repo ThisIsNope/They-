@@ -1,4 +1,5 @@
 # They++  
+# CHECKLIST  
 [ ] MAKE THE PAGE  
 [ ] MAKE THE LOGIN(I GUESS)  
 [ ] MAKE THE GRAPHS  
