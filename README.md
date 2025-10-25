@@ -1,6 +1,7 @@
 # They++  
 [ ] MAKE THE PAGE  
 [ ] MAKE THE LOGIN(I GUESS)  
+[ ] MAKE THE GRAPHS  
 [ ] MAKE THE AI(ML)  
 [ ]  
 IF TIME ALLOWS IT  
