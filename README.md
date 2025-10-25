@@ -1,1 +1,8 @@
-# They-
+# They++  
+[ ] MAKE THE PAGE  
+[ ] MAKE THE LOGIN(I GUESS)  
+[ ] MAKE THE AI(ML)  
+[ ]  
+IF TIME ALLOWS IT  
+[ ] PREDICT FUTURE PROYECTS  
+[ ] 
